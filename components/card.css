@@ -1,0 +1,21 @@
+img{
+    height:150px;
+    width: 150px;
+}
+
+.card{
+    background-color:lightblue ;
+ text-align: center;
+ align-items: center;
+    width: 250px;
+    display: inline-block;
+    margin-right: 2%;
+    margin-bottom: 2%;
+   
+}
+.card {transition: all 1s;}
+.card:hover{transform:scale(1.1) ;}
+
+
+
+
